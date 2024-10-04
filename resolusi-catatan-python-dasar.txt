@@ -9,3 +9,4 @@ Rencana Catatan Python Dasar :
 - Tentang Dictionary
   * Belajar tentang Dictionary
   * Belajar terus pokoknya
+- Tentang Tuple Juga jangan lupa
