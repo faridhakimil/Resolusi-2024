@@ -4,4 +4,6 @@ Rencana Catatan Python Dasar :
   * Day 1
   * Day 2
 - Tentang List
+  * Pengertian List
+  * Kapan menggunakan List
 - Tentang Dictionary
