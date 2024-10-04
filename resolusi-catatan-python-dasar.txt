@@ -7,3 +7,5 @@ Rencana Catatan Python Dasar :
   * Pengertian List
   * Kapan menggunakan List
 - Tentang Dictionary
+  * Belajar tentang Dictionary
+  * Belajar terus pokoknya
