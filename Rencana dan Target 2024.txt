@@ -1,9 +1,4 @@
 Resolusi saya tahun 2024 :
-- Belajar tentang Data Analysis
-- Belajar tentang Machine Learning
-- Mengikuti ujian tes materi
-- Lulus dalam ujian materi
-- Membuat final project
-- Mengikuti sidang akhir final project
+- Semoga lulus sidang akhir boothcamp
 - Membuat dan menambah repository secara sistematis
 - Mengulang pembelajaran dengan disertai dokumentasi
