@@ -1,12 +1,4 @@
 Rencana Catatan Python Dasar :
 
 - Tentang Operasional Python
-  * Day 1
-  * Day 2
-- Tentang List
-  * Pengertian List
-  * Kapan menggunakan List
-  * Gw fokus bereisn list
-  * List banyak banget dipakai
-- Tentang Dictionary
-- Tentang Tuple Juga jangan lupa
+
