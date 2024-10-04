@@ -9,3 +9,4 @@ Rencana Catatan Python Dasar :
   * Gw fokus bereisn list
   * List banyak banget dipakai
 - Tentang Dictionary
+- Tentang Tuple Juga jangan lupa
